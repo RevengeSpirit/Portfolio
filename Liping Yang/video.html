@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="css/stylesheet.css" type="text/css" />
+<title>Videos - Liping Yang's Website</title>
+<script type="text/javascript" src="scripts/mootools.js" ></script>
+<script type="text/javascript" src="scripts/menu.js" ></script>
+<script type='text/javascript' src='scripts/swfobject.js'></script>
+</head>
+
+<div id="container">
+  <div id="middlecol">
+    <div id="header"></div>
+    <div id="kwicks_container">
+      <ul id="kwicks">
+        <li id="kwick_1" class="kwick"><a href="main.html"><span>Homepage</span></a></li>
+        <li id="kwick_2" class="kwick"><a href="profile.html"><span>Profile</span></a></li>
+        <li id="kwick_3" class="kwick"><a href="gallery.html"><span>Gallery</span></a></li>
+        <li id="kwick_4" class="kwick"><a href="video.html"><span>Video</span></a></li>
+        <li id="kwick_6" class="kwick"><a href="reference.html"><span>Reference</span></a></li>
+        <li id="kwick_5" class="kwick"><a href="sitemap.html"><span>sitemap</span></a></li>
+      </ul>
+    </div>
+    <h1>Videos Of Liping Yang's Performances</h1>
+    <div class="line"></div>
+    <h3>These Videos include most of her famous dancing:</h3><br />
+    Moon Solo Dance <br />
+    Lasha River <br  />
+    Country of Daughters <br />
+    Spirit of Peacock <br />
+    Dynamic Yunnan <br />
+    Mystery of Tibet <br />
+    <div id='mediaspace'></div>
+    <div id="footer"> <a class="left" href="index.html">Home</a> <a class="right" href="mailto:shaoqing.yu@gmail.com">shaoqing.yu@gmail.com</a> </div>
+    <script type='text/javascript'>
+  var s1 = new SWFObject('flash/player.swf','ply','700','420','9','#ffffff');
+  s1.addParam('allowfullscreen','true');
+  s1.addParam('allowscriptaccess','always');
+  s1.addParam('wmode','opaque');
+  s1.addVariable("file", "flash/playlist.xml");
+  s1.addVariable("playlist", "right");
+  s1.write('mediaspace');
+  </script>
+  </div>
+</div>
+</body></html>
