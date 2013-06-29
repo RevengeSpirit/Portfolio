@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c76d5ce2-6a50-4831-a260-7c7049c76c1a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-2.0.1.min.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GalleryProject.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Liping Yang/PS/logo.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Liping Yang/PS/title.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/css/iehacks.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/Resume.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/about.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/contact.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/expressInstall.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/home.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/images/thumb/fitnessandsport.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/images/thumb/lpy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/images/thumb/lvg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/images/thumb/shutrade.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/images/thumb/zedu.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/index-app.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/index.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/js/flashLightBoxInjector.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/js/lightbox.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/js/swfaddress.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/js/swfobject.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/main.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/nav.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/portfolio.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/preload.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/scaffold.swf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/send_email.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/send_email_auto_response.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/textLayout_1.0.0.595.swz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/xml/picList.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/flash/xml/site.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gallery.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/banner3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_loading.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_nav_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_nav_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_shadow_e.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_shadow_n.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_shadow_ne.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_shadow_nw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_shadow_s.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_shadow_se.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_shadow_sw.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_shadow_w.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_title_left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_title_main.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_title_over.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancy_title_right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancybox-x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancybox-y.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/fancybox.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/fancybox/stylesheet.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_10.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_11.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_12.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_13.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_14.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/gallery/image_15.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xml/gallery.xml" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/lipingyang/css/_notes/dwsync.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/_notes/stylesheet.css.mno" afterPath="$PROJECT_DIR$/lipingyang/css/_notes/stylesheet.css.mno" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/imageMenu.css" afterPath="$PROJECT_DIR$/lipingyang/css/imageMenu.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/lightbox.css" afterPath="$PROJECT_DIR$/lipingyang/css/lightbox.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/player.css" afterPath="$PROJECT_DIR$/lipingyang/css/player.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/_notes/dwsync.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/controller-first.gif" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/controller-first.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/controller-last.gif" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/controller-last.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/controller-next.gif" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/controller-next.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/controller-pause.gif" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/controller-pause.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/controller-prev.gif" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/controller-prev.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/controller.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/controller.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-0.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-0.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-1.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-10.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-11.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-2.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-3.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-4.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-5.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-6.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-7.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-7.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-8.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-8.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/loader-9.png" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/loader-9.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/slideshow.css" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/slideshow.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/slideshow/slideshow.gif" afterPath="$PROJECT_DIR$/lipingyang/css/slideshow/slideshow.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/css/stylesheet.css" afterPath="$PROJECT_DIR$/lipingyang/css/stylesheet.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/culture.html" afterPath="$PROJECT_DIR$/lipingyang/culture.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/flash/1.swf" afterPath="$PROJECT_DIR$/lipingyang/flash/1.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/flash/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/lipingyang/flash/_notes/dwsync.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/flash/bg.mp3" afterPath="$PROJECT_DIR$/lipingyang/flash/bg.mp3" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/flash/player.swf" afterPath="$PROJECT_DIR$/lipingyang/flash/player.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/flash/playlist.xml" afterPath="$PROJECT_DIR$/lipingyang/flash/playlist.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/flash/skin.swf" afterPath="$PROJECT_DIR$/lipingyang/flash/skin.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/flash/soundmanager2_flash9.swf" afterPath="$PROJECT_DIR$/lipingyang/flash/soundmanager2_flash9.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/gallery.html" afterPath="$PROJECT_DIR$/lipingyang/gallery.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/02.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/02.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/02_thumb.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/02_thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/lipingyang/imgs/_notes/dwsync.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/abstract.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/abstract.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/bg-1.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/bg-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/bg.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/loaded.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/loaded.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/loader.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/loader.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/next.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/next.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/play.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/play.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/prev.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/prev.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/separator.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/separator.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/stop.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/stop.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/thumb copia.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/thumb copia.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/black/thumb.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/black/thumb.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/bodyBg.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/bodyBg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/chromebg.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/chromebg.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/chromebg2.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/chromebg2.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/contentbg.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/contentbg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/contentleftbg.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/contentleftbg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/1.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/10.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/10t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/10t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/11.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/11t.JPG" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/11t.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/12.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/12t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/12t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/13.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/13t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/13t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/14.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/14t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/14t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/15.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/15t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/15t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/16.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/16.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/16t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/16t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/17.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/17t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/17t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/18.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/18.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/18t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/18t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/1t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/1t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/2.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/20.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/2t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/2t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/3.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/3t.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/3t.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/4.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/4t.JPG" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/4t.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/5.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/5t.JPG" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/5t.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/6.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/6t.JPG" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/6t.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/7.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/7t.JPG" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/7t.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/8.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/8t.JPG" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/8t.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/9.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/9t.JPG" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/9t.JPG" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/gallery/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/lipingyang/imgs/gallery/_notes/dwsync.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/head.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/head.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/homepage.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/homepage.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/icons/alert.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/icons/alert.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/icons/browser.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/icons/browser.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/icons/chart.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/icons/chart.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/icons/comment-edit-48x48.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/icons/comment-edit-48x48.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/icons/culture.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/icons/culture.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/icons/restore.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/icons/restore.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/landscapes.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/landscapes.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/line.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/line.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/log.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/log.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/mainbg.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/mainbg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/mask.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/mask.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/nature.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/nature.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/people.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/people.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/profile.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/profile.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/relevant.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/relevant.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/sitemap.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/sitemap.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/spark.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/spark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/spark1.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/spark1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/spark2.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/spark2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/spark3.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/spark3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/spark4.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/spark4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/spark5.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/spark5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/title.gif" afterPath="$PROJECT_DIR$/lipingyang/imgs/title.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/title.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/title.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/urban.jpg" afterPath="$PROJECT_DIR$/lipingyang/imgs/urban.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/video.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/video.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/c.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/c.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/close.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/e.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/e.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/iconize.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/iconize.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/max.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/max.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/min.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/min.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/n.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/n.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/ne.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/ne.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/no.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/no.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/o.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/o.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/s.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/s.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/se.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/se.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/images/white/so.png" afterPath="$PROJECT_DIR$/lipingyang/imgs/white/so.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/index.html" afterPath="$PROJECT_DIR$/lipingyang/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/main.html" afterPath="$PROJECT_DIR$/lipingyang/main.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/profile.html" afterPath="$PROJECT_DIR$/lipingyang/profile.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/reference.html" afterPath="$PROJECT_DIR$/lipingyang/reference.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/_notes/dwsync.xml" afterPath="$PROJECT_DIR$/lipingyang/scripts/_notes/dwsync.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/bg.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/bg.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/expressInstall.swf" afterPath="$PROJECT_DIR$/lipingyang/scripts/expressInstall.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/iframe.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/iframe.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/imageMenu.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/imageMenu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/jquery.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/jquery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/lightbox.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/lightbox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/mbGallery.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/mbGallery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/mbGallery.min.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/mbGallery.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/menu.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/menu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/mootools.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/mootools.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/player.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/player.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/rain.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/rain.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/slide.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/slide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/slideshow.flash.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/slideshow.flash.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/slideshow.fold.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/slideshow.fold.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/slideshow.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/slideshow.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/slideshow.kenburns.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/slideshow.kenburns.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/slideshow.push.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/slideshow.push.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/snow.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/snow.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/spark.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/spark.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/swfobject.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/swfobject.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/scripts/swfobject_modified.js" afterPath="$PROJECT_DIR$/lipingyang/scripts/swfobject_modified.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/sitemap.html" afterPath="$PROJECT_DIR$/lipingyang/sitemap.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/video.html" afterPath="$PROJECT_DIR$/lipingyang/video.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Country of Daughters.flv" afterPath="$PROJECT_DIR$/lipingyang/videos/Country of Daughters.flv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Country of Daughters.jpg" afterPath="$PROJECT_DIR$/lipingyang/videos/Country of Daughters.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Dynamic Yunnan.flv" afterPath="$PROJECT_DIR$/lipingyang/videos/Dynamic Yunnan.flv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Dynamic Yunnan.jpg" afterPath="$PROJECT_DIR$/lipingyang/videos/Dynamic Yunnan.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Moon Solo Dance.flv" afterPath="$PROJECT_DIR$/lipingyang/videos/Moon Solo Dance.flv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Moon Solo Dance.jpg" afterPath="$PROJECT_DIR$/lipingyang/videos/Moon Solo Dance.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Mystery of Tibet.flv" afterPath="$PROJECT_DIR$/lipingyang/videos/Mystery of Tibet.flv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Mystery of Tibet.jpg" afterPath="$PROJECT_DIR$/lipingyang/videos/Mystery of Tibet.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/River Lasha.flv" afterPath="$PROJECT_DIR$/lipingyang/videos/River Lasha.flv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/River Lasha.jpg" afterPath="$PROJECT_DIR$/lipingyang/videos/River Lasha.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Spirit of Peacock.flv" afterPath="$PROJECT_DIR$/lipingyang/videos/Spirit of Peacock.flv" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Liping Yang/videos/Spirit of Peacock.jpg" afterPath="$PROJECT_DIR$/lipingyang/videos/Spirit of Peacock.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bg1.jpg" afterPath="$PROJECT_DIR$/imgs/bg1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bg2.jpg" afterPath="$PROJECT_DIR$/imgs/bg2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bg3.jpg" afterPath="$PROJECT_DIR$/imgs/bg3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bg4.jpg" afterPath="$PROJECT_DIR$/imgs/bg4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bio-thumb.jpg" afterPath="$PROJECT_DIR$/imgs/bio-thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bio.jpg" afterPath="$PROJECT_DIR$/imgs/bio.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/bottom-menu.gif" afterPath="$PROJECT_DIR$/imgs/bottom-menu.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/dots.png" afterPath="$PROJECT_DIR$/imgs/dots.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fitnessandsport-thumb.jpg" afterPath="$PROJECT_DIR$/imgs/fitnessandsport-thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/fitnessandsport.jpg" afterPath="$PROJECT_DIR$/imgs/fitnessandsport.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/flashportfolio.jpg" afterPath="$PROJECT_DIR$/imgs/flashportfolio.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/follow-me.png" afterPath="$PROJECT_DIR$/imgs/follow-me.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/foot-bg.png" afterPath="$PROJECT_DIR$/imgs/foot-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/foot-hover.png" afterPath="$PROJECT_DIR$/imgs/foot-hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/hover.png" afterPath="$PROJECT_DIR$/imgs/hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/img-shadow.png" afterPath="$PROJECT_DIR$/imgs/img-shadow.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/liping-thumb.jpg" afterPath="$PROJECT_DIR$/imgs/liping-thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/liping-yang.jpg" afterPath="$PROJECT_DIR$/imgs/liping-yang.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/logo.png" afterPath="$PROJECT_DIR$/imgs/logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/lvgproperties.jpg" afterPath="$PROJECT_DIR$/imgs/lvgproperties.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/midContent-bg.png" afterPath="$PROJECT_DIR$/imgs/midContent-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/quck-link-menu-hover.png" afterPath="$PROJECT_DIR$/imgs/quck-link-menu-hover.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/quck-link-menu.png" afterPath="$PROJECT_DIR$/imgs/quck-link-menu.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/quick-links.png" afterPath="$PROJECT_DIR$/imgs/quick-links.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/quickNav-bg.png" afterPath="$PROJECT_DIR$/imgs/quickNav-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/shutrade.jpg" afterPath="$PROJECT_DIR$/imgs/shutrade.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/toggleNavin.png" afterPath="$PROJECT_DIR$/imgs/toggleNavin.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/top-bg.png" afterPath="$PROJECT_DIR$/imgs/top-bg.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/totalArc-thumb.jpg" afterPath="$PROJECT_DIR$/imgs/totalArc-thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/totalact.jpg" afterPath="$PROJECT_DIR$/imgs/totalact.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/totalarc.jpg" afterPath="$PROJECT_DIR$/imgs/totalarc.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/union-thumb.jpg" afterPath="$PROJECT_DIR$/imgs/union-thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/unionreal.jpg" afterPath="$PROJECT_DIR$/imgs/unionreal.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/zedu-thumb.jpg" afterPath="$PROJECT_DIR$/imgs/zedu-thumb.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/images/zedu.jpg" afterPath="$PROJECT_DIR$/imgs/zedu.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about_content.php" afterPath="$PROJECT_DIR$/about_content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact_content.php" afterPath="$PROJECT_DIR$/contact_content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/header.php" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index_content.php" afterPath="$PROJECT_DIR$/index_content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/init.js" afterPath="$PROJECT_DIR$/js/init.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.pngFix.js" afterPath="$PROJECT_DIR$/js/jquery.pngFix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.php" afterPath="$PROJECT_DIR$/portfolio.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio_content.php" afterPath="$PROJECT_DIR$/portfolio_content.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylesheet.css" afterPath="$PROJECT_DIR$/css/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/stylesheet.scss" afterPath="$PROJECT_DIR$/css/stylesheet.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="portfolio.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/Dummy.txt" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1371620885539" ignored="false" />
+    <file path="/portfolio_content.php" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1371607237568" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/Portfolio/index.html" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369977637725" ignored="false" />
+    <file path="/index.html" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369977592542" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/Portfolio/js/bootstrap.min.js" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369906328166" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/Portfolio/js/bootstrap.js" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369913324221" ignored="false" />
+    <file path="/bootstrap.js" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369913263765" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/Portfolio/js/custom.js" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369976149207" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/Portfolio/css/custom.xsl" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369970953496" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/Portfolio/css/custom.less" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369977905980" ignored="false" />
+    <file path="/custom.less" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369977900597" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/Portfolio/css/custom.css" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369977906471" ignored="false" />
+    <file path="/custom.js" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369974232228" ignored="false" />
+    <file path="$USER_HOME$/WebstormProjects/Portfolio/css/bootstrap.css" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369973611263" ignored="false" />
+    <file path="/bootstrap.css" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369973599650" ignored="false" />
+    <file path="/custom.css" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1369975697685" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/xslt-schema.xsd" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1370473501260" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/documentation.xsl" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1370473501260" ignored="false" />
+    <file path="$APPLICATION_HOME_DIR$/plugins/xpath/lib/xpath.jar!/org/intellij/lang/xpath/xslt/resources/documentation.xml" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1370473501260" ignored="false" />
+    <file path="/init.js" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1371620708032" ignored="false" />
+    <file path="/header.php" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1371617134923" ignored="false" />
+    <file path="/stylesheet.scss" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1371620805927" ignored="false" />
+    <file path="/contact_content.php" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1371617765964" ignored="false" />
+    <file path="/index_content.php" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1371614127467" ignored="false" />
+    <file path="/footer.php" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1370502137053" ignored="false" />
+    <file path="/about_content.php" changelist="c76d5ce2-6a50-4831-a260-7c7049c76c1a" time="1371616440322" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="portfolio" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="0" selection-start="647" selection-end="647" vertical-scroll-proportion="0.7196262">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/js/custom.js" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/portfolio.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/portfolio_content.php" />
+        <option value="$PROJECT_DIR$/portfolio_content.php" />
+        <option value="$PROJECT_DIR$/index_content.php" />
+        <option value="$PROJECT_DIR$/index_content.php" />
+        <option value="$PROJECT_DIR$/about_content.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/contact_content.php" />
+        <option value="$PROJECT_DIR$/js/init.js" />
+        <option value="$PROJECT_DIR$/css/stylesheet.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="22" />
+    <option name="width" value="1260" />
+    <option name="height" value="705" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="portfolio" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="restartRequiresConfirmation" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="071faaab-9604-4c32-903a-478ee466e268">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+      <server id="0a1cf6d1-e606-4392-a75e-ea75ccddc0e5">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" document_root="$PROJECT_DIR$/.." port="1088">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Remote" singleton="true">
+      <JSRemoteDebuggerConfigurationSettings>
+        <option name="engineId" value="chrome" />
+        <option name="fileUrl" value="" />
+      </JSRemoteDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c76d5ce2-6a50-4831-a260-7c7049c76c1a" name="Default" comment="" />
+      <created>1369882734725</created>
+      <updated>1369882734725</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="22" width="1260" height="705" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25123557" sideWeight="0.6712095" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recoding" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="Recoding" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/send_email_auto_response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.3218391">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/quck-link-menu.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/imgs/quick-links.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lipingyang/imgs/spark1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="4" selection-start="22" selection-end="22" vertical-scroll-proportion="0.03164557">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="25" selection-start="86" selection-end="86" vertical-scroll-proportion="0.14018692">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="28" selection-start="51" selection-end="51" vertical-scroll-proportion="0.056074765">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="18" selection-start="820" selection-end="820" vertical-scroll-proportion="0.27102804">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/jquery-2.0.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/send_email.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="0" selection-start="1012" selection-end="1012" vertical-scroll-proportion="2.094225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/stylesheet.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="317" column="1" selection-start="4561" selection-end="4561" vertical-scroll-proportion="0.7509363">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/init.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="27" selection-start="2352" selection-end="2352" vertical-scroll-proportion="-0.41074857">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact_content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="53" selection-start="1160" selection-end="1171" vertical-scroll-proportion="0.6448598">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="22" selection-start="625" selection-end="625" vertical-scroll-proportion="0.5607477">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lipingyang/scripts/swfobject_modified.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="631" column="4" selection-start="20751" selection-end="20751" vertical-scroll-proportion="3.6458924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="0" selection-start="647" selection-end="647" vertical-scroll-proportion="0.7196262">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

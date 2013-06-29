@@ -43,7 +43,7 @@ jQuery.fn.pngFix = function(settings) {
 
 	if (jQuery.browser.msie && (ie55 || ie6)) {
 
-		//fix images with png-source
+		//fix imgs with png-source
 		jQuery(this).find("img[@src$=.png]").each(function() {
 
 			jQuery(this).attr('width',jQuery(this).width());

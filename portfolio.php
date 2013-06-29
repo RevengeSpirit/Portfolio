@@ -1,17 +1,9 @@
 <?php
 
-require "header.php";
+    require "header.php";
 
-?>
+    require "portfolio_content.php";
 
-<?php
-
-require "portfolio_content.php";
-
-?>
- 
-<?php
-
-require "footer.php";
+    require "footer.php";
 
 ?>

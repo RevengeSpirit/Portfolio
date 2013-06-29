@@ -1,45 +1,43 @@
-<div id="left">
-<div id="logo">
-<a href="index.php"><img src="../images/logo.png" alt="Shaoqing's Portfolio"/></a>
-</div>
+<div id="midContent">
 
-<div id="quick-links-wrapper">
-<div id="quick-links"></div>
-<div id="quick-links-menu">
-<ul>
-          <li><a href="/index.php"><span>Home</span></a></li>
-          <li><a href="/portfolio.php"><span>Works</span></a></li>
-          <li><a href="/about.php"><span>About</span></a></li>
-          <li><a href="/contact.php"><span>Contact</span></a></li>
-</ul>
-</div>
-</div>
-</div>
+    <div id="logoNavWrapper">
+        <div id="logo"></div>
 
-<div id="middle">
-  <div id="topContent"> </div>
-  <div id="midContent">
-  
-  
-  
-  
- 
-  </div>
-      
-      <div id="bottomContent"> 
-      
-      </div>
-</div>    
-  <div id="right">
-  <div id="banner">
-  <ul>
-  <li><img src="../images/banner1.png" alt="Skills List"/></li>
-  <li><img src="../images/banner2.png" alt="Skills List"/></li>
-  <li><img src="../images/banner3.png" alt="Skills List"/></li>
-  </ul>
-  </div>
-  
-  
- </div>
+        <div id="quick-links-wrapper">
 
+            <h2 id="quick-links">Quick Links</h2>
 
+            <div id="quick-links-menu">
+                <ul>
+                    <li><a href="index.php"><span>Home</span></a></li>
+                    <li><a href="portfolio.php"><span>Works</span></a></li>
+                    <li><a href="about.php"><span>About</span></a></li>
+                    <li><a href="contact.php"><span>Contact</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div id="bannerWrapper">
+
+        <ul>
+            <li id="banner1" class="banner">
+                <dl><b>FRONT END WEB DEVELOPER</b></dl>
+                <dl>WEB DESIGN</dl>
+            </li>
+
+            <li id="banner2" class="banner">
+                <dl>HTML5</dl>
+                <dl>CSS3</dl>
+                <dl>JAVASCRIPT/JQUERY</dl>
+                <dl>CMS</dl>
+            </li>
+            <li id="banner3" class="banner">
+                <dl>ADOBE CS</dl>
+                <dl>SASS/LESS</dl>
+            </li>
+        </ul>
+
+    </div>
+
+</div>
